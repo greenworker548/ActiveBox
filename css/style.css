@@ -206,7 +206,7 @@ header .header__menu .switch .side-menu:checked ~ .hamb .hamb-line::after {
     border: none;
   }
   header .header__menu a svg {
-    margin-left: 0px;
+    margin-left: 15px;
     width: 104px;
     height: 15px;
   }
